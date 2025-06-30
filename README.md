@@ -5,4 +5,4 @@ Analyzing Retail Data Through Gender & Trends
 
 
 [Download Excel File]
-NOTE:File is too large to preview in Github , but you can download it .
+NOTE:  File is too large to preview in Github , but you can download it .
